@@ -13,7 +13,7 @@
 
 На vm B (192.168.1.198) ----
 1. Устанавливаем пакет python3-pip: sudo apt install python3-pip
-2. устанавливаем cqlsh: pip install -U cqlsh
+2. Устанавливаем cqlsh: pip install -U cqlsh
 3. Проверяем, что cqlsh установлен: cqlsh --help
 4. Подключаемся через cqlsh к каждому контейнеру:
    ![image](https://github.com/user-attachments/assets/6d12e24a-ca3e-4298-b186-3aae77da8a2d)
